@@ -1,5 +1,5 @@
 ---
-abstract: 'Plack application for tree view.'
+abstract: 'Plack application for tree view'
 author:
   - 'Michal Josef Spacek <skim@cpan.org>'
 build_requires:
